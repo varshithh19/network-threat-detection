@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Network Security Dashboard</title>
+
+<style>
+
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+padding:40px;
+}
+
+h1{
+color:#38bdf8;
+}
+
+.card{
+background:#1e293b;
+padding:20px;
+margin-bottom:20px;
+border-radius:8px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+th,td{
+padding:10px;
+border-bottom:1px solid #334155;
+text-align:left;
+}
+
+th{
+color:#38bdf8;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Network Threat Detection Dashboard</h1>
+
+<div class="card">
+<h2>Total Attacks Detected: {{total_attacks}}</h2>
+</div>
+
+<div class="card">
+<h2>Unique Attackers</h2>
+
+<ul>
+
+{% for ip in attackers %}
+
+<li>{{ip}}</li>
+
+{% endfor %}
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Security Logs</h2>
+
+<table>
+
+<tr>
+<th>Time</th>
+<th>Attacker IP</th>
+<th>Threat</th>
+<th>Action</th>
+</tr>
+
+{% for log in logs %}
+
+<tr>
+<td>{{log.timestamp}}</td>
+<td>{{log.attacker_ip}}</td>
+<td>{{log.threat_type}}</td>
+<td>{{log.action}}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+</div>
+
+</body>
+</html>

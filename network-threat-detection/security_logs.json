@@ -1,0 +1,194 @@
+[
+    {
+        "timestamp": "2026-03-15 16:59:26",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "TRAFFIC_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:26",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:26",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:31",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "TRAFFIC_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:31",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:31",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:36",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:36",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:41",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:41",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:46",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:46",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:51",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:51",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:56",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 16:59:56",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 17:00:01",
+        "attacker_ip": "192.168.1.12",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 17:00:01",
+        "attacker_ip": "202.88.191.34",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-15 17:00:02",
+        "attacker_ip": "20.189.173.9",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:04",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "TRAFFIC_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:04",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:09",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "TRAFFIC_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:09",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:14",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:19",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:24",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:29",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-20 23:24:34",
+        "attacker_ip": "192.168.1.5",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-26 09:59:03",
+        "attacker_ip": "11.12.3.21",
+        "threat_type": "PORT_SCAN",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-26 09:59:03",
+        "attacker_ip": "11.12.3.21",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-28 11:33:39",
+        "attacker_ip": "11.12.3.110",
+        "threat_type": "PORT_SCAN",
+        "action": "BLOCKED"
+    },
+    {
+        "timestamp": "2026-03-28 11:33:39",
+        "attacker_ip": "11.12.3.110",
+        "threat_type": "CONNECTION_FLOOD",
+        "action": "BLOCKED"
+    }
+]
